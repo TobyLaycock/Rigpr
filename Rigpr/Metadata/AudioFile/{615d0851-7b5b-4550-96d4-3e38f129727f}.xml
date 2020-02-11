@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{615d0851-7b5b-4550-96d4-3e38f129727f}">
+		<property name="assetPath">
+			<value>Metal Bang-SoundBible.com-672025076.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.70394557823129256</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35a1755e-2a0b-4c42-9e90-1e911899eed6}</destination>
+		</relationship>
+	</object>
+</objects>
