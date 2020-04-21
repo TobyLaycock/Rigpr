@@ -1,137 +1,137 @@
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Beat_Road_Segment.uasset" 0
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Beat_Road_Segment.uasset" 1
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Beat_Road_Segment_Crossing.uasset" 2
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Beat_Road_Segment_Crossing.uasset" 3
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Curb_Left/Curb_Left_Pavement_2_BaseColor.uasset" 4
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UniversalEmmisive.uasset" 5
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UniversalMetallic.uasset" 6
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UniversalRough.uasset" 7
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Curb_Left/CurbL_Material.uasset" 8
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Curb_Right/Curb_Right_Pavement_2_BaseColor.uasset" 9
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Curb_Right/CurbR_Material.uasset" 10
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Alternate/Road_Alternate_Tarmac_2_BaseColor.uasset" 11
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Alternate/Road_Alternative_Crossing.uasset" 12
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_NoLines/Road_Normal_Tarmac_2_BaseColor.uasset" 13
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_NoLines/Road_No_LInes.uasset" 14
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Normal/Road_Normal_Tarmac_2_BaseColor.uasset" 15
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Normal/Road_Normal.uasset" 16
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Bog_Ol_Section.uasset" 17
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Bog_Ol_Section.uasset" 18
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Car_Test.uasset" 19
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Fade.uasset" 20
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Fade.uasset" 21
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/SNow_andLight/Police_siren.uasset" 22
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour.uasset" 23
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_1.uasset" 24
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_0.uasset" 25
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_2.uasset" 26
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_1.uasset" 27
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_3.uasset" 28
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_4.uasset" 29
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_2.uasset" 30
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_5.uasset" 31
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_3.uasset" 32
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_6.uasset" 33
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_4.uasset" 34
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_8.uasset" 35
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_7.uasset" 36
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_9.uasset" 37
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Police_Car.uasset" 38
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Character_Ui_Police_Car.uasset" 39
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Level_Sequencer.uasset" 40
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Level_Sequencer.uasset" 41
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Logo/Game_Logo_V1.uasset" 42
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Main_menu_Background.uasset" 43
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Main_menu_Background.uasset" 44
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Main_menu.uasset" 45
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Beat_Road_Segment.uasset" 0
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Beat_Road_Segment.uasset" 1
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Beat_Road_Segment_Crossing.uasset" 2
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Beat_Road_Segment_Crossing.uasset" 3
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Curb_Left/Curb_Left_Pavement_2_BaseColor.uasset" 4
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UniversalEmmisive.uasset" 5
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UniversalMetallic.uasset" 6
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UniversalRough.uasset" 7
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Curb_Left/CurbL_Material.uasset" 8
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Curb_Right/Curb_Right_Pavement_2_BaseColor.uasset" 9
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Curb_Right/CurbR_Material.uasset" 10
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Alternate/Road_Alternate_Tarmac_2_BaseColor.uasset" 11
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Alternate/Road_Alternative_Crossing.uasset" 12
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_NoLines/Road_Normal_Tarmac_2_BaseColor.uasset" 13
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_NoLines/Road_No_LInes.uasset" 14
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Normal/Road_Normal_Tarmac_2_BaseColor.uasset" 15
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Normal/Road_Normal.uasset" 16
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Bog_Ol_Section.uasset" 17
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Bog_Ol_Section.uasset" 18
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Car_Test.uasset" 19
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Fade.uasset" 20
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Fade.uasset" 21
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/SNow_andLight/Police_siren.uasset" 22
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour.uasset" 23
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_1.uasset" 24
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_0.uasset" 25
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_2.uasset" 26
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_1.uasset" 27
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_3.uasset" 28
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_4.uasset" 29
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_2.uasset" 30
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_5.uasset" 31
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_3.uasset" 32
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_6.uasset" 33
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_4.uasset" 34
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_8.uasset" 35
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_7.uasset" 36
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_9.uasset" 37
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Police_Car.uasset" 38
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Character_Ui_Police_Car.uasset" 39
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Level_Sequencer.uasset" 40
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Level_Sequencer.uasset" 41
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Logo/Game_Logo_V1.uasset" 42
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Main_menu_Background.uasset" 43
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Main_menu_Background.uasset" 44
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Main_menu.uasset" 45
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 46
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Back/Back_H.uasset" 47
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Back/Back_N.uasset" 48
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Controls.uasset" 49
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Esc_Pause_menu.uasset" 50
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Right_turn.uasset" 51
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Turn_left.uasset" 52
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Whole_Keyboard_Finished.uasset" 53
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/sound/button-09.uasset" 54
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/sound/button-6.uasset" 55
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Controls.uasset" 56
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Credits_photo/HighresScreenshot_credits.uasset" 57
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Alex_updated.uasset" 58
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Alice_updated.uasset" 59
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/CLIENT.uasset" 60
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Conor_updated.uasset" 61
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Danny_updated.uasset" 62
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Fillipe_Da_Silva_updated.uasset" 63
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Gear_updated.uasset" 64
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/HEARTBEAT_TEAM.uasset" 65
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_H.uasset" 66
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_T_updated.uasset" 67
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/MUSIC.uasset" 68
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Music_1.uasset" 69
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Music_2.uasset" 70
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Music_3.uasset" 71
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Ollie_updated.uasset" 72
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/studio_logo.uasset" 73
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/thank_you_for_playing.uasset" 74
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Toby.uasset" 75
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Credits.uasset" 76
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Controls_button_H.uasset" 77
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Controls_button_N.uasset" 78
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/Credits_button_H.uasset" 79
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/Credits_button_N.uasset" 80
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Exit_Button/Exit_button_H.uasset" 81
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Exit_Button/Exit_button_N.uasset" 82
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/Options_button_H.uasset" 83
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/Options_button_N.uasset" 84
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button/Play_button_H_Updated.uasset" 85
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button/Play_button_N_Updated.uasset" 86
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/ANTI_ALTASTING.uasset" 87
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/box_edge2.uasset" 88
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/box_slide.uasset" 89
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/options.uasset" 90
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/POST_PROCESSING.uasset" 91
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/RESOLUTION.uasset" 92
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Options.uasset" 93
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_H_v2.uasset" 94
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v2.uasset" 95
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/Post_exit_button.uasset" 96
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/Yes__I_m_sure_H.uasset" 97
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/Yes__I_m_sure_N.uasset" 98
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Post_exit.uasset" 99
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Fade_out_TLS.uasset" 100
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot00000_V3_updated.uasset" 101
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot1.uasset" 102
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot_4final.uasset" 103
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot_5.uasset" 104
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshotv1dark.uasset" 105
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshotv2_final.uasset" 106
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Loading_screen.uasset" 107
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level1_5__daytime_H.uasset" 108
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level1_5__daytime_N.uasset" 109
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_v2_H.uasset" 110
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_v2_N.uasset" 111
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_II_H.uasset" 112
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_II_N.uasset" 113
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_III_H.uasset" 114
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_III_N.uasset" 115
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Select_Level.uasset" 116
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Select_Level.uasset" 117
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Main_menu_Buttons.uasset" 118
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Main_menu_Buttons.uasset" 119
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/PoliceCar_MaterialI.uasset" 120
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Police_Car_Bp3.uasset" 121
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/TestChar.uasset" 122
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bench/Bench_BaseColorwood_5.uasset" 123
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bench/Bench_Material.uasset" 124
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Bench.uasset" 125
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Bench.uasset" 126
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/My_Camera_Shake.uasset" 127
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Back/Back_H.uasset" 47
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Back/Back_N.uasset" 48
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Controls.uasset" 49
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Esc_Pause_menu.uasset" 50
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Right_turn.uasset" 51
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Turn_left.uasset" 52
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Whole_Keyboard_Finished.uasset" 53
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/sound/button-09.uasset" 54
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/sound/button-6.uasset" 55
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Controls.uasset" 56
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Credits_photo/HighresScreenshot_credits.uasset" 57
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Alex_updated.uasset" 58
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Alice_updated.uasset" 59
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/CLIENT.uasset" 60
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Conor_updated.uasset" 61
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Danny_updated.uasset" 62
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Fillipe_Da_Silva_updated.uasset" 63
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Gear_updated.uasset" 64
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/HEARTBEAT_TEAM.uasset" 65
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_H.uasset" 66
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_T_updated.uasset" 67
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/MUSIC.uasset" 68
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Music_1.uasset" 69
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Music_2.uasset" 70
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Music_3.uasset" 71
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Ollie_updated.uasset" 72
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/studio_logo.uasset" 73
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/thank_you_for_playing.uasset" 74
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Toby_improve.uasset" 75
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Credits.uasset" 76
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Controls_button_H.uasset" 77
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Controls_button_N.uasset" 78
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/Credits_button_H.uasset" 79
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/Credits_button_N.uasset" 80
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Exit_Button/Exit_button_H.uasset" 81
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Exit_Button/Exit_button_N.uasset" 82
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/Options_button_H.uasset" 83
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/Options_button_N.uasset" 84
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button/Play_button_H_Updated.uasset" 85
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button/Play_button_N_Updated.uasset" 86
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/Anti_aliasing_Improve.uasset" 87
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/box_edge2.uasset" 88
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/box_slide.uasset" 89
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/Options_improve.uasset" 90
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/POST_PROCESSING.uasset" 91
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/RESOLUTION.uasset" 92
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Options.uasset" 93
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_H_v2.uasset" 94
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v2.uasset" 95
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/Post_exit_button.uasset" 96
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/Yes__I_m_sure_H.uasset" 97
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/Yes__I_m_sure_N.uasset" 98
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Post_exit.uasset" 99
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Fade_out_TLS.uasset" 100
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot00000_V3_updated.uasset" 101
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot1.uasset" 102
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot_4final.uasset" 103
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot_5.uasset" 104
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshotv1dark.uasset" 105
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshotv2_final.uasset" 106
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Loading_screen.uasset" 107
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_v2_H.uasset" 108
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_v2_N.uasset" 109
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_II_DAYTIME_H_Improve.uasset" 110
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_II_DAYTIME_N_Improve.uasset" 111
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_III_H.uasset" 112
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_III_N.uasset" 113
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_IV_H.uasset" 114
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_IV_N.uasset" 115
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Select_improve_.uasset" 116
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Select_Level.uasset" 117
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Main_menu_Buttons.uasset" 118
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Main_menu_Buttons.uasset" 119
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/PoliceCar_MaterialI.uasset" 120
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Police_Car_Bp3.uasset" 121
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/TestChar.uasset" 122
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bench/Bench_BaseColorwood_5.uasset" 123
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bench/Bench_Material.uasset" 124
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Bench.uasset" 125
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Bench.uasset" 126
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/My_Camera_Shake.uasset" 127
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 128
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Diff.uasset" 129
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Emmisive.uasset" 130
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Opp.uasset" 131
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Reff.uasset" 132
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Interior.uasset" 133
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Diff.uasset" 129
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Emmisive.uasset" 130
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Opp.uasset" 131
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/NEWAbulance_Interior_Reff.uasset" 132
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Interior.uasset" 133
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 134
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 135
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 136
@@ -140,789 +140,815 @@
 "../../../Engine/Content/BasicShapes/Plane.uasset" 139
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 140
 "../../../Engine/Content/BasicShapes/Sphere.uasset" 141
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_6.uasset" 142
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/Police_Car_Material_7.uasset" 143
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/NEWAmbulance_Low.uasset" 144
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Steering_Wheel/Steering_Wheel_Mat1_BaseColor.uasset" 145
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Steering_Wheel/Steering_Wheel_1.uasset" 146
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Steering_Wheel/Steering_Wheel_Mat2_BaseColor.uasset" 147
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Steering_Wheel/Steering_Wheel_2.uasset" 148
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Steering_Wheel_Tilt.uasset" 149
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Car_Engine_Humming.uasset" 150
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Car_Engine_Humming_Cue.uasset" 151
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/HighresScreenshot_death_screen2.uasset" 152
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/MAIN_MENU.uasset" 153
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/MainMenu_H_Final.uasset" 154
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/RESTART.uasset" 155
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/Restart_H_Final.uasset" 156
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/you_have_died_v2.uasset" 157
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Death_screen.uasset" 158
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Pause_menu/Resume_H_v2.uasset" 159
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Pause_menu/Resume_N_v2.uasset" 160
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Pause_Menu.uasset" 161
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_Feedback.uasset" 162
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 163
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Wooden_Objects.uasset" 164
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Wooden_Objects_Cue.uasset" 165
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Bench_BP.uasset" 166
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Bench_BP.uasset" 167
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Entrance_BaseColor.uasset" 168
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building1_MaterialA.uasset" 169
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Pavement_BaseColor.uasset" 170
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building1_MaterialB.uasset" 171
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Side_Faces_BaseColor.uasset" 172
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building1_MaterialC.uasset" 173
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_SideTrim_BaseColor.uasset" 174
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building1_MaterialD.uasset" 175
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Top_BaseColor.uasset" 176
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building1_MaterialE.uasset" 177
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Building_1.uasset" 178
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Building_1.uasset" 179
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part1_BaseColor.uasset" 180
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part1_OcclusionRoughnessMetallic.uasset" 181
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_1.uasset" 182
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part2_BaseColor.uasset" 183
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_2.uasset" 184
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Posters_BaseColor.uasset" 185
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_3.uasset" 186
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part4_BaseColor.uasset" 187
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_4.uasset" 188
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part5_BaseColor.uasset" 189
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_5.uasset" 190
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part6_BaseColor.uasset" 191
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_6.uasset" 192
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part7_BaseColor.uasset" 193
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part_7.uasset" 194
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Building_2.uasset" 195
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Building_2.uasset" 196
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Caps_BaseColor.uasset" 197
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialA.uasset" 198
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Center_Strip_BaseColor.uasset" 199
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialB.uasset" 200
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Doorway_BaseColor.uasset" 201
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialC.uasset" 202
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Lower_Walls_BaseColor.uasset" 203
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialE.uasset" 204
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Mid_Sides_BaseColor.uasset" 205
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialF.uasset" 206
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Building_3.uasset" 207
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Building_3.uasset" 208
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Car_Light_Back.uasset" 209
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Car_Lights.uasset" 210
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_OcclusionRoughnessMetallic.uasset" 211
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_BaseColor.uasset" 212
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_Normal.uasset" 213
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_bodywork.uasset" 214
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_BaseColor.uasset" 215
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_Normal.uasset" 216
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_OcclusionRoughnessMetallic.uasset" 217
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_Bumper.uasset" 218
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_Grille_BaseColor.uasset" 219
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_Grille_Normal.uasset" 220
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_Grille.uasset" 221
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_BaseColor.uasset" 222
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_Normal.uasset" 223
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_Headlight.uasset" 224
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1Tail_light_BaseColor.uasset" 225
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1Tail_light_Normal.uasset" 226
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_Tailight.uasset" 227
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_tyres__wheel__BaseColor.uasset" 228
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_tyres__wheel__Normal.uasset" 229
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_tyres.uasset" 230
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_BaseColor.uasset" 231
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_Normal.uasset" 232
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_OcclusionRoughnessMetallic.uasset" 233
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car1_Window.uasset" 234
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_OcclusionRoughnessMetallic.uasset" 235
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2bodywork_BaseColor.uasset" 236
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car2_bodywork.uasset" 237
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Civilian_Car_2.uasset" 238
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Car_Crash.uasset" 239
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Car_Crash_Cue.uasset" 240
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Civilian_Car1_BP.uasset" 241
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Civilian_Car1_BP.uasset" 242
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/Traffic_Cone_Base_traffic_cone_BaseColor.uasset" 243
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/Traffic_Cone_Base.uasset" 244
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/Traffic_Cone_main_traffic_cone_BaseColor.uasset" 245
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/Traffic_Cone_Orange.uasset" 246
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Traffic_Cone.uasset" 247
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Cone.uasset" 248
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Cone_Cue.uasset" 249
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Cone_BP.uasset" 250
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Cone_BP.uasset" 251
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Curb_Left.uasset" 252
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Curb_Left.uasset" 253
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Curb_Right.uasset" 254
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Curb_Right.uasset" 255
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/HotDog_Stand.uasset" 256
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/HotDog_Stand.uasset" 257
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/HotDogStand.uasset" 258
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/HotDog_Stand_Bp.uasset" 259
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Inner_Corner.uasset" 260
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Inner_Corner_Bp.uasset" 261
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Inner_Corner_Bp.uasset" 262
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Mailbox_BP.uasset" 263
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Mailbox_BP.uasset" 264
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/Police_Barrier_Barrier__BaseColor.uasset" 265
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/PoliceBarier_MaterialA.uasset" 266
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/Police_Barrier_Barrier_base_BaseColor.uasset" 267
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/PoliceBarier_MaterialB.uasset" 268
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/Police_Barrier_Barrier_Caps_BaseColor.uasset" 269
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Barrier/PoliceBarier_MaterialC.uasset" 270
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Police_Barrier.uasset" 271
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Police_Barrier.uasset" 272
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/CubeMaterial.uasset" 273
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/1M_Cube.uasset" 274
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Police_Barrier_BP.uasset" 275
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Police_Barrier_BP.uasset" 276
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Police_Siren_Cue.uasset" 277
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Police_Car_Bp.uasset" 278
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Police_Car_Bp.uasset" 279
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Cinder_Block_BaseColor.uasset" 280
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Cinder_Block_Normal.uasset" 281
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Cinder_Block_OcclusionRoughnessMetallic.uasset" 282
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Cinder.uasset" 283
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Ramp_Wood_BaseColor.uasset" 284
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Ramp_Wood_Normal.uasset" 285
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Ramp_Wood_OcclusionRoughnessMetallic.uasset" 286
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp_Wood.uasset" 287
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Ramp.uasset" 288
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Ramp.uasset" 289
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Ramp_BP.uasset" 290
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Ramp_BP.uasset" 291
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Road_Normal.uasset" 292
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Road_Normal.uasset" 293
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Sign/Road_Sign_Overhead_sign__main_body__BaseColor.uasset" 294
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Sign/RoadSign_MaterialA.uasset" 295
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Sign/Road_Sign_Overhead_sign__sign__BaseColor.uasset" 296
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Sign/RoadSign_MaterialB.uasset" 297
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Road_Sign.uasset" 298
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Road_Sign.uasset" 299
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Grille_BaseColor.uasset" 300
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_1.uasset" 301
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_bodywork_BaseColor.uasset" 302
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_2.uasset" 303
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_Bumper_BaseColor.uasset" 304
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_3.uasset" 305
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_Head_light__BaseColor.uasset" 306
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_4.uasset" 307
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_Window_BaseColor.uasset" 308
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_7.uasset" 309
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_tyres__wheel__BaseColor.uasset" 310
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_8.uasset" 311
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Taxi.uasset" 312
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Taxi.uasset" 313
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Taxi_BP.uasset" 314
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Taxi_BP.uasset" 315
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/AlleyWay.uasset" 316
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/AlleyWay.uasset" 317
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Faces_BaseColor.uasset" 318
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Faces_Normal.uasset" 319
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Faces_OcclusionRoughnessMetallic.uasset" 320
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Face.uasset" 321
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_BaseColor.uasset" 322
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_Normal.uasset" 323
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_OcclusionRoughnessMetallic.uasset" 324
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls.uasset" 325
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_BaseColor.uasset" 326
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_Normal.uasset" 327
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_OcclusionRoughnessMetallic.uasset" 328
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bridge_Section/BridgeSection_Top_Section.uasset" 329
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/BridgeSection.uasset" 330
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/BridgeSection.uasset" 331
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Bottom_Door_BaseColor.uasset" 332
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Bottom_Door.uasset" 333
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_bottom_pillars_BaseColor.uasset" 334
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Bottom_Pillars.uasset" 335
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Details_BaseColor.uasset" 336
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Details.uasset" 337
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Floor_BaseColor.uasset" 338
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Floor.uasset" 339
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Wall_Glass_BaseColor.uasset" 340
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Wall_Glass.uasset" 341
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Building_4.uasset" 342
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Building_4.uasset" 343
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_5/Building_5_lambert1_BaseColor.uasset" 344
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_5/Building_5_lambert1_Normal.uasset" 345
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_5/Building_5_lambert1_OcclusionRoughnessMetallic.uasset" 346
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_5/Building5_lambert.uasset" 347
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Building_5.uasset" 348
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Building_5.uasset" 349
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Civilian_Car2_BP.uasset" 350
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Civilian_Car2_BP.uasset" 351
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Civilian_Car2_BP.uasset" 352
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3bodywork_BaseColor.uasset" 353
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car3_bodywork.uasset" 354
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Civilian_Car_3.uasset" 355
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Civilian_Car3_BP.uasset" 356
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Civilian_Car3_BP.uasset" 357
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Civilian_Car3_BP.uasset" 358
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Civilian_Car_2.uasset" 359
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Civilian_Car_3.uasset" 360
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Metal_Objects.uasset" 361
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Collision_with_Metal_Objects_Cue.uasset" 362
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Road_Sign_Bp.uasset" 363
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Road_Sign_Bp.uasset" 364
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Lamp/Lamp_initialShadingGroup_BaseColor.uasset" 365
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Lamp/Lamp_initialShadingGroup_Emissive.uasset" 366
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Lamp/Lamp_initialShadingGroup_Normal.uasset" 367
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Lamp/initialShadingGroup.uasset" 368
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Lamp.uasset" 369
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/AssetsFromOllie/Lamp/Lamp.uasset" 370
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/Gear_20Map_201.uasset" 371
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/Barrier_.uasset" 372
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/Barrier_base.uasset" 373
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/Material__222.uasset" 374
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/barrier.uasset" 375
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Barricade/barrier_DM.uasset" 376
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Cone/traffic_cone_fbm/Gear_20Map_201.uasset" 377
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Cone/Base_traffic_corn_.uasset" 378
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Cone/main_traffic_corn.uasset" 379
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Cone/traffic_cone.uasset" 380
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Lamp.uasset" 381
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Lamp_Blueprint.uasset" 382
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Lamp_Blueprint.uasset" 383
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Lamp_DM.uasset" 384
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/TrafficLight_Normal.uasset" 385
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Traffic_Light_Bp.uasset" 386
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Traffic_Light_Bp.uasset" 387
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Traffic_Light_Left.uasset" 388
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Lamp/Traffic_Light_Right.uasset" 389
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car.uasset" 390
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorBumper_Mat.uasset" 391
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorCar_bodywork_Mat.uasset" 392
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorGrille_Mat.uasset" 393
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorHead_light__Mat.uasset" 394
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorPolice_siren_light_Mat.uasset" 395
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorTail_light__Mat.uasset" 396
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColortyres__wheel__Mat.uasset" 397
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorWheel_hub__middle_part__Mat.uasset" 398
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Police_Car/Police_Car_BaseColorWindow_Mat.uasset" 399
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/lambert2.uasset" 400
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/lambert1.uasset" 401
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Ramp_Version_3.uasset" 402
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Cinder_Block.uasset" 403
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Ramp_Metal.uasset" 404
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Wooden_Plank1.uasset" 405
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Wooden_Plank2.uasset" 406
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Ramp_Version_4.uasset" 407
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Road/Curb_Left.uasset" 408
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Road/Curb_Right.uasset" 409
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Gear_20Map_201.uasset" 410
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Grille.uasset" 411
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_bodywork.uasset" 412
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_Bumper.uasset" 413
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_Head_light_.uasset" 414
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_sign_top.uasset" 415
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_Tail_light_.uasset" 416
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi_Window.uasset" 417
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/tyres__wheel_.uasset" 418
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Taxi/Taxi.uasset" 419
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Left_Turn.uasset" 420
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Left_Turn_BP.uasset" 421
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp/Ramp_Wood_BaseColor.uasset" 422
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp/Ramp_MaterialB.uasset" 423
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Ramp/Ramp_Version_2.uasset" 424
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/Ramp_Blueprint.uasset" 425
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/FirstPersonBP/FirstPersonOverview.uasset" 426
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 427
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/09_-_Default.uasset" 428
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/1M_Cube_Chamfer.uasset" 429
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bush/Bush_Bush_Top_BaseColor.uasset" 430
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bush/Bush_Top.uasset" 431
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bush/Bush_Trunk.uasset" 432
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Bush.uasset" 433
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Civilian_Car.uasset" 434
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Details_BaseColor.uasset" 435
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_1.uasset" 436
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Door_BaseColor.uasset" 437
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_2.uasset" 438
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Extras_BaseColor.uasset" 439
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_3.uasset" 440
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Frames_BaseColor.uasset" 441
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_5.uasset" 442
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Windows_BaseColor.uasset" 443
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_8.uasset" 444
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/End_Building.uasset" 445
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Full_Road_Segment.uasset" 446
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Grass_Tile/Grass_Tile_Grass_BaseColor.uasset" 447
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Grass_Tile/Grass_Tile.uasset" 448
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Grass_Tile.uasset" 449
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Newsbox.uasset" 450
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Right_Turn.uasset" 451
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Road_Redone.uasset" 452
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Levels/_MaterialTEMP.uasset" 453
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Road_Section.uasset" 454
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Steering_Wheel.uasset" 455
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/TemplateFloor.uasset" 456
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/TrafficLight_Normal.uasset" 457
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Traffic_Light_Left.uasset" 458
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Traffic_Light_Right.uasset" 459
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_1/Tree_Log_trunk_BaseColor.uasset" 460
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_1/Tree1_Bottom.uasset" 461
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_1/Tree_Top_tree_1_BaseColor.uasset" 462
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_1/Tree1_Top.uasset" 463
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Tree.uasset" 464
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_2/Tree2_Log_Trunk_BaseColor.uasset" 465
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_2/Tree2_Bottom.uasset" 466
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_2/Tree2_Top_Tree_BaseColor.uasset" 467
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tree_2/Tree2_Top.uasset" 468
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Tree2.uasset" 469
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Main_Theme.uasset" 470
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme.uasset" 471
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme_2.uasset" 472
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme_2_Cue.uasset" 473
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme_3.uasset" 474
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Ambulance_Siren.uasset" 475
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Ambulance_Siren_Cue.uasset" 476
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Drifting.uasset" 477
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Drifting_Cue.uasset" 478
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Gun_Shot.uasset" 479
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Gun_Shot_Cue.uasset" 480
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Police_Siren.uasset" 481
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Radio_Scan_1.uasset" 482
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Base_Material_Layout.uasset" 483
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_siren_light.uasset" 484
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_siren_light1.uasset" 485
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Abulance_Interior_Diff.uasset" 486
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Abulance_Interior_Emmisive.uasset" 487
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Abulance_Interior_Opp.uasset" 488
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Abulance_Interior_Reff.uasset" 489
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorDoor_Trims2.uasset" 490
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Steering_Wheel.uasset" 491
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Steering_Wheel_Diff.uasset" 492
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ambulance_Interior/Steering_Wheel_Opp.uasset" 493
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Bench/Bench_Normalwood_5.uasset" 494
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Entrance_Normal.uasset" 495
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Pavement_Normal.uasset" 496
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_SideTrim_Normal.uasset" 497
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Side_Faces_Emissive.uasset" 498
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Side_Faces_Normal.uasset" 499
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_1/Building_3_Top_Normal.uasset" 500
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part1_Normal.uasset" 501
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part2_Normal.uasset" 502
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part2_OcclusionRoughnessMetallic.uasset" 503
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part4_Normal.uasset" 504
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part4_OcclusionRoughnessMetallic.uasset" 505
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part5_Normal.uasset" 506
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part5_OcclusionRoughnessMetallic.uasset" 507
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part6_OcclusionRoughnessMetallic.uasset" 508
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part8_BaseColor.uasset" 509
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Part8_OcclusionRoughnessMetallic.uasset" 510
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_2/Building_2_Posters_OcclusionRoughnessMetallic.uasset" 511
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Entrance_Roof_BaseColor.uasset" 512
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building3_MaterialD.uasset" 513
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Pavement_BaseColor.uasset" 514
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Pavement.uasset" 515
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Top_Sides_BaseColor.uasset" 516
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_3/Building_2_Top_Sides.uasset" 517
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Pillar_BaseColor.uasset" 518
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building4_Pillar.uasset" 519
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Bottom_Door_Normal.uasset" 520
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_bottom_pillars_Normal.uasset" 521
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Details_Normal.uasset" 522
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Floor_Normal.uasset" 523
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_lambert2_BaseColor.uasset" 524
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_lambert2_Normal.uasset" 525
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Pillar_Normal.uasset" 526
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Building_4/Building_4_Wall_Glass_Normal.uasset" 527
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2bodywork_Normal.uasset" 528
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Bumper_BaseColor.uasset" 529
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Bumper_Normal.uasset" 530
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Head_light_BaseColor.uasset" 531
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Head_light_Normal.uasset" 532
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Tail_light_BaseColor.uasset" 533
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Tail_light_Normal.uasset" 534
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Window_BaseColor.uasset" 535
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Window_Normal.uasset" 536
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_Grille_BaseColor.uasset" 537
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_Grille_Normal.uasset" 538
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_tyres__wheel__BaseColor.uasset" 539
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car2/Civilian_Car_tyres__wheel__Normal.uasset" 540
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3bodywork_Normal.uasset" 541
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Bumper_BaseColor.uasset" 542
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Bumper_Normal.uasset" 543
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Head_light_BaseColor.uasset" 544
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Head_light_Normal.uasset" 545
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Tail_light_BaseColor.uasset" 546
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Tail_light_Normal.uasset" 547
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Window_BaseColor.uasset" 548
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Window_Normal.uasset" 549
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_Grille_BaseColor.uasset" 550
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_Grille_Normal.uasset" 551
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_tyres__wheel__BaseColor.uasset" 552
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Civilian_Car3/Civilian_Car_tyres__wheel__Normal.uasset" 553
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Floor_BaseColor.uasset" 554
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_4.uasset" 555
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_Roofs_BaseColor.uasset" 556
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_6.uasset" 557
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_walls_BaseColor.uasset" 558
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/End_Building/End_Building_7.uasset" 559
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Police_Car/BaseColour_5.uasset" 560
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/M_raindrop.uasset" 561
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/P_GPU_particles_collision2.uasset" 562
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/TilingNoise06_N.uasset" 563
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/T_Caustics.uasset" 564
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/T_Cubemap_01.uasset" 565
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/T_raindrop.uasset" 566
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Rain/rain/T_raindrop_normal.uasset" 567
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp/Ramp_Bricks_BaseColor.uasset" 568
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Ramp/Ramp_MaterialA.uasset" 569
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_NoLines/Road_Normal_Tarmac_2_Normal.uasset" 570
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Road_Normal/_MaterialTEMP.uasset" 571
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_sign_top_BaseColor.uasset" 572
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_5.uasset" 573
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_Taxi_Tail_light__BaseColor.uasset" 574
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Taxi/Taxi_6.uasset" 575
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/TrafficCone_MaterialA.uasset" 576
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Cone/TrafficCone_MaterialB.uasset" 577
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialA.uasset" 578
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialB.uasset" 579
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialC.uasset" 580
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialD.uasset" 581
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialE.uasset" 582
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_Traffic_light_v2_light_left_BaseColor.uasset" 583
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_light_middle_BaseColor.uasset" 584
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_light_right_BaseColor.uasset" 585
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_main_box_body_BaseColor.uasset" 586
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_metal_BaseColor.uasset" 587
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialA.uasset" 588
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialB.uasset" 589
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialC.uasset" 590
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialD.uasset" 591
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialE.uasset" 592
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_traffic_light_v1_light_bot_F_BaseColor.uasset" 593
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_traffic_light_v1_light_mid_F_BaseColor.uasset" 594
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_light_v1_light_top_F_BaseColor.uasset" 595
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_Light_v1_Main_light_body_BaseColor.uasset" 596
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_Light_v1_Metal_BaseColor.uasset" 597
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialA.uasset" 598
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialB.uasset" 599
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialC.uasset" 600
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialD.uasset" 601
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialE.uasset" 602
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_Traffic_light_v2_light_left_BaseColor.uasset" 603
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_light_middle_BaseColor.uasset" 604
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_light_right_BaseColor.uasset" 605
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_main_box_body_BaseColor.uasset" 606
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_metal_BaseColor.uasset" 607
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tunnel_Part/Tunnel_Part_Tunnel_Texture_BaseColor.uasset" 608
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tunnel_Part/Tunnel_Part_Tunnel_Texture_Emissive.uasset" 609
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures_Materials/Road_Alternate/RoadCrossing_Material.uasset" 610
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Police_Car.uasset" 611
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Police_Car_Bp2.uasset" 612
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Abulance_Interior_Diff.uasset" 613
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Abulance_Interior_Emmisive.uasset" 614
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Abulance_Interior_Opp.uasset" 615
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Abulance_Interior_Reff.uasset" 616
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Screen_Overlay.uasset" 617
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Abulance_Interior_MetSpec.uasset" 618
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Steering_Wheel.uasset" 619
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Steering_Wheel_Diff.uasset" 620
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Steering_Wheel_Opp.uasset" 621
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Ambulance_Interior/Steering_Wheel1.uasset" 622
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Cinematic_s/Background.uasset" 623
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/HighresScreen_death_screen.uasset" 624
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_deathscreen/you_have_died.uasset" 625
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot2.uasset" 626
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshotv1light.uasset" 627
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/images_loadingscreen/HighresScreenshot_v3.uasset" 628
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Arrow.uasset" 629
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Arrow2.uasset" 630
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/arrow_2.uasset" 631
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/arrow_3.uasset" 632
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/arrow_4.uasset" 633
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/arrow_5.uasset" 634
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Controls_Button/Arrow_5_1.uasset" 635
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Alex.uasset" 636
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Alice.uasset" 637
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Conor.uasset" 638
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Danny.uasset" 639
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Fillipe_Da_Silva.uasset" 640
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Gear.uasset" 641
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_T.uasset" 642
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Credits_Button/All_names/Ollie.uasset" 643
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/box_edge.uasset" 644
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/Brightness.uasset" 645
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/SHADOW.uasset" 646
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Options_Button/VOLUME.uasset" 647
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button/Play_button_H.uasset" 648
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button/Play_button_N.uasset" 649
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button_Test/Play.uasset" 650
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button_Test/Play_box.uasset" 651
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Play_Button_Test/Play_Hovered.uasset" 652
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_H.uasset" 653
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N.uasset" 654
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3.uasset" 655
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_1.uasset" 656
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_2.uasset" 657
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_3.uasset" 658
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level1__daytime_H.uasset" 659
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level1__daytime_N.uasset" 660
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_IV_H.uasset" 661
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_IV_N.uasset" 662
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_I_H.uasset" 663
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/Level_I_N.uasset" 664
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_H.uasset" 665
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_N.uasset" 666
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Pause_menu/Resume_H.uasset" 667
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Pause_menu/Resume_N.uasset" 668
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/SNow_andLight/SpotLightSign.uasset" 669
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_100_.uasset" 670
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_100_aloneV2.uasset" 671
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_100_aloneV3.uasset" 672
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_100_withoutRed.uasset" 673
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_10_.uasset" 674
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_15_.uasset" 675
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_20_.uasset" 676
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_25_.uasset" 677
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_30_.uasset" 678
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_35_.uasset" 679
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_40_.uasset" 680
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_45_.uasset" 681
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_50_.uasset" 682
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_55_.uasset" 683
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_5_.uasset" 684
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_60_.uasset" 685
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_65_.uasset" 686
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_70_.uasset" 687
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_75_.uasset" 688
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_80_.uasset" 689
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_85_.uasset" 690
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_90_.uasset" 691
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_95_.uasset" 692
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/stress_bar_alone.uasset" 693
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Studio_logo/HeartBeat_Studios.uasset" 694
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Studio_logo/Team_logo.uasset" 695
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/Victory_text.uasset" 696
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 697
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 698
-"../../../Engine/Content/BasicShapes/Cone.uasset" 699
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 700
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 701
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 702
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 703
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 704
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 705
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 706
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 707
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 708
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 709
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 710
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 711
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 712
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 713
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 714
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 715
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 716
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 717
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 718
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 719
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 720
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 721
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 722
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 723
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 724
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 725
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 726
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 727
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 728
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 729
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 730
-"../../../Engine/Content/EditorResources/S_Note.uasset" 731
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 732
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 733
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 734
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 735
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 736
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 737
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 738
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 739
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 740
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 741
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 742
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 743
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 744
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 745
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 746
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 747
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 748
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 749
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 750
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 751
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 752
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 753
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 754
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 755
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 756
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 757
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 758
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 759
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 760
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 761
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 762
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 763
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 764
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 765
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 766
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 767
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 768
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 769
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 770
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 771
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 772
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 773
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 774
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 775
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 776
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 777
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 778
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 779
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 780
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 781
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 782
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 783
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 784
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 785
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 786
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 787
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 788
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 789
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 790
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 791
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 792
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 793
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 794
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 795
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 796
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 797
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 798
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 799
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 800
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 801
-"../../../Engine/Content/EngineResources/Black.uasset" 802
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 803
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 804
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 805
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 806
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 807
-"../../../Engine/Content/EngineSounds/Master.uasset" 808
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 809
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 810
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 811
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 812
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 813
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 814
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 815
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 816
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 817
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 818
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 819
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 820
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 821
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 822
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 823
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 824
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 825
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 826
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 827
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 828
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 829
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 830
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 831
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 832
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 833
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 834
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 835
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 836
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 837
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 838
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 839
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 840
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 841
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 842
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 843
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 844
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 845
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 846
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 847
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 848
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 849
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 850
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 851
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 852
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 853
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 854
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 855
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 856
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 857
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 858
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 859
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 860
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Credits_ending.uasset" 861
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/CreditsV_H.uasset" 862
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/CreditsV_N.uasset" 863
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/MainV_H.uasset" 864
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/MainV_N.uasset" 865
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory/you_have_survived_1_copy.uasset" 866
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Victory_screen.uasset" 867
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Blueprints/victory_BP.uasset" 868
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Corner_Fast.uasset" 869
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Corner_Slow.uasset" 870
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 871
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Levels/Test_Level_Design_BuiltData.uasset" 872
-"../../../Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset" 873
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/AlleyWay/AlleyWay_Alleyway_BaseColor.uasset" 874
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/AlleyWay/AlleyWay_Alleyway_Normal.uasset" 875
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/AlleyWay/Alleyway.uasset" 876
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tunnel_Entrance/Tunnel_Entrance_Tunnel_Entrance_BaseColor.uasset" 877
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/Tunnel_Entrance/Tunnel_Entrance_Tunnel_Entrance_BaseColor_Mat.uasset" 878
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Beat_Road_Segment.uasset" 879
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_Hotdog_extra_small_attach_bit_BaseColor.uasset" 880
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_1.uasset" 881
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_hotdog_paint_area_BaseColor.uasset" 882
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_2.uasset" 883
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_hotdog_stand_main_mody_BaseColor.uasset" 884
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_3.uasset" 885
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_Hotdog_stand_Wheels_BaseColor.uasset" 886
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/HotdogStand/HotDogStand_4.uasset" 887
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/HotDogStand.uasset" 888
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/PostBox/PostBox_PB_Base__BaseColor.uasset" 889
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/PostBox/Post_Box_1.uasset" 890
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/PostBox/PostBox_PB_details_BaseColor.uasset" 891
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Textures/PostBox/Post_Box_2.uasset" 892
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/PostBox.uasset" 893
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Tunnel_Entrance.uasset" 894
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Models/Tunnel_Part.uasset" 895
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/rock-background-music-no-copyright-youtubemp3free_org_01.uasset" 896
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/rock-background-music-no-copyright-youtubemp3free_org_01_Cue.uasset" 897
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme_01.uasset" 898
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Secondary_Theme_01_Cue.uasset" 899
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Radio_Scan_2.uasset" 900
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/SoundEffects/Radio_Scan_2_Cue.uasset" 901
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_Idle.uasset" 902
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_Idle_V2.uasset" 903
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_bar/StressBar_NotIdle_V2.uasset" 904
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/Stress_Meter.uasset" 905
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/3D_Models/Levels/Test_Level_Design.umap" 906
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 907
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 908
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 909
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 910
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 911
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 912
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 913
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 914
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 915
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/MenuGameMode.uasset" 916
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/RIGPRSCENETEMP_BuiltData.uasset" 917
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Assets/Road/06_-_Default.uasset" 918
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Menu_Theme.uasset" 919
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/Music/Main-Menu.uasset" 920
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 921
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 922
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/SNow_andLight/Snow_M.uasset" 923
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/SNow_andLight/Snow_P.uasset" 924
-"C:/Users/User/Desktop/HeartBeat V7.1/Content/UI/RIGPRSCENETEMP.umap" 925
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 926
-"../../../Engine/Content/Maps/Entry.umap" 927
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorDashMain.uasset" 142
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalDashMain.uasset" 143
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_2.uasset" 144
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorDashUnder.uasset" 145
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalDashUnder.uasset" 146
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_4.uasset" 147
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorDoor_Trims2.uasset" 148
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalDoor_Trims2.uasset" 149
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_5.uasset" 150
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorDoorTrim1.uasset" 151
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalDoorTrim1.uasset" 152
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_6.uasset" 153
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorMirrors.uasset" 154
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalMirrors.uasset" 155
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_7.uasset" 156
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/NEWAmbulance_Low.uasset" 157
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Steering_Wheel/Steering_Wheel_Mat1_BaseColor.uasset" 158
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Steering_Wheel/Steering_Wheel_1.uasset" 159
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Steering_Wheel/Steering_Wheel_Mat2_BaseColor.uasset" 160
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Steering_Wheel/Steering_Wheel_2.uasset" 161
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Steering_Wheel_Tilt.uasset" 162
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Car_Engine_Humming.uasset" 163
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Car_Engine_Humming_Cue.uasset" 164
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Gun_Shot.uasset" 165
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/HighresScreenshot_death_screen2.uasset" 166
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/MAIN_MENU.uasset" 167
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/MainMenu_H_Final.uasset" 168
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/RESTART.uasset" 169
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/Restart_H_Final.uasset" 170
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/you_have_died_v2.uasset" 171
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Death_screen.uasset" 172
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Pause_menu/Resume_H_v2.uasset" 173
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Pause_menu/Resume_N_v2.uasset" 174
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Pause_Menu.uasset" 175
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_Feedback.uasset" 176
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 177
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Wooden_Objects.uasset" 178
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Wooden_Objects_Cue.uasset" 179
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Bench_BP.uasset" 180
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Bench_BP.uasset" 181
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Entrance_BaseColor.uasset" 182
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building1_MaterialA.uasset" 183
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Pavement_BaseColor.uasset" 184
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building1_MaterialB.uasset" 185
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Side_Faces_BaseColor.uasset" 186
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building1_MaterialC.uasset" 187
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_SideTrim_BaseColor.uasset" 188
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building1_MaterialD.uasset" 189
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Top_BaseColor.uasset" 190
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building1_MaterialE.uasset" 191
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Building_1.uasset" 192
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Building_1.uasset" 193
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part1_BaseColor.uasset" 194
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part1_OcclusionRoughnessMetallic.uasset" 195
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_1.uasset" 196
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part2_BaseColor.uasset" 197
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_2.uasset" 198
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Posters_BaseColor.uasset" 199
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_3.uasset" 200
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part4_BaseColor.uasset" 201
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_4.uasset" 202
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part5_BaseColor.uasset" 203
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_5.uasset" 204
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part6_BaseColor.uasset" 205
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_6.uasset" 206
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part7_BaseColor.uasset" 207
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part_7.uasset" 208
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Building_2.uasset" 209
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Building_2.uasset" 210
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Caps_BaseColor.uasset" 211
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialA.uasset" 212
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Center_Strip_BaseColor.uasset" 213
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialB.uasset" 214
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Doorway_BaseColor.uasset" 215
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialC.uasset" 216
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Lower_Walls_BaseColor.uasset" 217
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialE.uasset" 218
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Mid_Sides_BaseColor.uasset" 219
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialF.uasset" 220
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Building_3.uasset" 221
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Building_3.uasset" 222
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Car_Light_Back.uasset" 223
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Car_Lights.uasset" 224
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_OcclusionRoughnessMetallic.uasset" 225
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_BaseColor.uasset" 226
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_Normal.uasset" 227
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_bodywork.uasset" 228
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_BaseColor.uasset" 229
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_Normal.uasset" 230
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1i_Bumper_OcclusionRoughnessMetallic.uasset" 231
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_Bumper.uasset" 232
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_Grille_BaseColor.uasset" 233
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_Grille_Normal.uasset" 234
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_Grille.uasset" 235
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_BaseColor.uasset" 236
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Head_light_Normal.uasset" 237
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_Headlight.uasset" 238
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1Tail_light_BaseColor.uasset" 239
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1Tail_light_Normal.uasset" 240
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_Tailight.uasset" 241
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_tyres__wheel__BaseColor.uasset" 242
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_tyres__wheel__Normal.uasset" 243
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_tyres.uasset" 244
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_BaseColor.uasset" 245
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_Normal.uasset" 246
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1_Window_OcclusionRoughnessMetallic.uasset" 247
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car1_Window.uasset" 248
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car1/Civilian_Car_CAR1bodywork_OcclusionRoughnessMetallic.uasset" 249
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2bodywork_BaseColor.uasset" 250
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car2_bodywork.uasset" 251
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Civilian_Car_2.uasset" 252
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Car_Crash.uasset" 253
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Car_Crash_Cue.uasset" 254
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Civilian_Car1_BP.uasset" 255
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Civilian_Car1_BP.uasset" 256
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/Traffic_Cone_Base_traffic_cone_BaseColor.uasset" 257
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/Traffic_Cone_Base.uasset" 258
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/Traffic_Cone_main_traffic_cone_BaseColor.uasset" 259
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/Traffic_Cone_Orange.uasset" 260
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Traffic_Cone.uasset" 261
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Cone.uasset" 262
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Cone_Cue.uasset" 263
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Cone_BP.uasset" 264
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Cone_BP.uasset" 265
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Curb_Left.uasset" 266
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Curb_Left.uasset" 267
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Curb_Right.uasset" 268
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Curb_Right.uasset" 269
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/HotDog_Stand.uasset" 270
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/HotDog_Stand.uasset" 271
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/HotDogStand.uasset" 272
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/HotDog_Stand_Bp.uasset" 273
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/HotDog_Stand_Bp.uasset" 274
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Inner_Corner.uasset" 275
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Inner_Corner_Bp.uasset" 276
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Inner_Corner_Bp.uasset" 277
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Mailbox_BP.uasset" 278
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Mailbox_BP.uasset" 279
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/Police_Barrier_Barrier__BaseColor.uasset" 280
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/PoliceBarier_MaterialA.uasset" 281
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/Police_Barrier_Barrier_base_BaseColor.uasset" 282
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/PoliceBarier_MaterialB.uasset" 283
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/Police_Barrier_Barrier_Caps_BaseColor.uasset" 284
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Barrier/PoliceBarier_MaterialC.uasset" 285
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Police_Barrier.uasset" 286
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Police_Barrier.uasset" 287
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/CubeMaterial.uasset" 288
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/1M_Cube.uasset" 289
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Police_Barrier_BP.uasset" 290
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Police_Barrier_BP.uasset" 291
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Police_Car_Bp.uasset" 292
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Police_Car_Bp.uasset" 293
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Cinder_Block_BaseColor.uasset" 294
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Cinder_Block_Normal.uasset" 295
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Cinder_Block_OcclusionRoughnessMetallic.uasset" 296
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Cinder.uasset" 297
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Ramp_Wood_BaseColor.uasset" 298
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Ramp_Wood_Normal.uasset" 299
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Ramp_Wood_OcclusionRoughnessMetallic.uasset" 300
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp_Wood.uasset" 301
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Ramp.uasset" 302
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Ramp.uasset" 303
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Ramp_BP.uasset" 304
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Ramp_BP.uasset" 305
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Road_Normal.uasset" 306
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Road_Normal.uasset" 307
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Sign/Road_Sign_Overhead_sign__main_body__BaseColor.uasset" 308
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Sign/RoadSign_MaterialA.uasset" 309
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Sign/Road_Sign_Overhead_sign__sign__BaseColor.uasset" 310
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Sign/RoadSign_MaterialB.uasset" 311
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Road_Sign.uasset" 312
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Road_Sign.uasset" 313
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Grille_BaseColor.uasset" 314
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_1.uasset" 315
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_bodywork_BaseColor.uasset" 316
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_2.uasset" 317
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_Bumper_BaseColor.uasset" 318
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_3.uasset" 319
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_Head_light__BaseColor.uasset" 320
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_4.uasset" 321
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_Window_BaseColor.uasset" 322
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_7.uasset" 323
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_tyres__wheel__BaseColor.uasset" 324
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_8.uasset" 325
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Taxi.uasset" 326
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Taxi.uasset" 327
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Taxi_BP.uasset" 328
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Taxi_BP.uasset" 329
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/AlleyWay.uasset" 330
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/AlleyWay.uasset" 331
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Faces_BaseColor.uasset" 332
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Faces_Normal.uasset" 333
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Faces_OcclusionRoughnessMetallic.uasset" 334
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Face.uasset" 335
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_BaseColor.uasset" 336
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_Normal.uasset" 337
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls_OcclusionRoughnessMetallic.uasset" 338
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_InnerWalls.uasset" 339
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_BaseColor.uasset" 340
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_Normal.uasset" 341
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Top_Section_OcclusionRoughnessMetallic.uasset" 342
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bridge_Section/BridgeSection_Top_Section.uasset" 343
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/BridgeSection.uasset" 344
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/BridgeSection.uasset" 345
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Bottom_Door_BaseColor.uasset" 346
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Bottom_Door.uasset" 347
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_bottom_pillars_BaseColor.uasset" 348
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Bottom_Pillars.uasset" 349
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Details_BaseColor.uasset" 350
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Details.uasset" 351
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Floor_BaseColor.uasset" 352
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Floor.uasset" 353
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Wall_Glass_BaseColor.uasset" 354
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Wall_Glass.uasset" 355
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Building_4.uasset" 356
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Building_4.uasset" 357
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_5/Building_5_lambert1_BaseColor.uasset" 358
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_5/Building_5_lambert1_Normal.uasset" 359
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_5/Building_5_lambert1_OcclusionRoughnessMetallic.uasset" 360
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_5/Building5_lambert.uasset" 361
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Building_5.uasset" 362
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Building_5.uasset" 363
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Civilian_Car2_BP.uasset" 364
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Civilian_Car2_BP.uasset" 365
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Civilian_Car2_BP.uasset" 366
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3bodywork_BaseColor.uasset" 367
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car3_bodywork.uasset" 368
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Civilian_Car_3.uasset" 369
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Civilian_Car3_BP.uasset" 370
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Civilian_Car3_BP.uasset" 371
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Civilian_Car3_BP.uasset" 372
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Civilian_Car_2.uasset" 373
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Civilian_Car_3.uasset" 374
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Metal_Objects.uasset" 375
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Collision_with_Metal_Objects_Cue.uasset" 376
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Road_Sign_Bp.uasset" 377
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Road_Sign_Bp.uasset" 378
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Lamp/Lamp_initialShadingGroup_BaseColor.uasset" 379
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Lamp/Lamp_initialShadingGroup_Emissive.uasset" 380
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Lamp/Lamp_initialShadingGroup_Normal.uasset" 381
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Lamp/initialShadingGroup.uasset" 382
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Lamp.uasset" 383
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/AssetsFromOllie/Lamp/Lamp.uasset" 384
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/Gear_20Map_201.uasset" 385
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/Barrier_.uasset" 386
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/Barrier_base.uasset" 387
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/Material__222.uasset" 388
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/barrier.uasset" 389
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Barricade/barrier_DM.uasset" 390
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Cone/traffic_cone_fbm/Gear_20Map_201.uasset" 391
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Cone/Base_traffic_corn_.uasset" 392
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Cone/main_traffic_corn.uasset" 393
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Cone/traffic_cone.uasset" 394
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Cone/traffic_cone_fbm/Gear_20Map_201_1_.uasset" 395
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Lamp.uasset" 396
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Lamp_Blueprint.uasset" 397
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Lamp_Blueprint.uasset" 398
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Lamp_DM.uasset" 399
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp/Ramp_Wood_BaseColor.uasset" 400
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp/Ramp_MaterialB.uasset" 401
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Ramp_Version_2.uasset" 402
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Ramp_Blueprint.uasset" 403
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/TrafficLight_Normal.uasset" 404
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Traffic_Light_Bp.uasset" 405
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Traffic_Light_Bp.uasset" 406
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Traffic_Light_Left.uasset" 407
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Lamp/Traffic_Light_Right.uasset" 408
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car.uasset" 409
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorBumper_Mat.uasset" 410
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorCar_bodywork_Mat.uasset" 411
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorGrille_Mat.uasset" 412
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorHead_light__Mat.uasset" 413
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorPolice_siren_light_Mat.uasset" 414
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorTail_light__Mat.uasset" 415
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColortyres__wheel__Mat.uasset" 416
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorWheel_hub__middle_part__Mat.uasset" 417
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Police_Car/Police_Car_BaseColorWindow_Mat.uasset" 418
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/lambert2.uasset" 419
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/lambert1.uasset" 420
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Ramp_Version_3.uasset" 421
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Cinder_Block.uasset" 422
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Ramp_Metal.uasset" 423
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Wooden_Plank1.uasset" 424
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Wooden_Plank2.uasset" 425
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Ramp/Ramp_Version_4.uasset" 426
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Road/Curb_Left.uasset" 427
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Road/Curb_Right.uasset" 428
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Gear_20Map_201.uasset" 429
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Grille.uasset" 430
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_bodywork.uasset" 431
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_Bumper.uasset" 432
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_Head_light_.uasset" 433
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_sign_top.uasset" 434
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_Tail_light_.uasset" 435
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi_Window.uasset" 436
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/tyres__wheel_.uasset" 437
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Taxi/Taxi.uasset" 438
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Left_Turn.uasset" 439
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Left_Turn_BP.uasset" 440
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/Ramp_Blueprint.uasset" 441
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/FirstPersonBP/FirstPersonOverview.uasset" 442
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 443
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/09_-_Default.uasset" 444
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/1M_Cube_Chamfer.uasset" 445
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bush/Bush_Bush_Top_BaseColor.uasset" 446
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bush/Bush_Top.uasset" 447
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bush/Bush_Trunk.uasset" 448
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Bush.uasset" 449
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Civilian_Car.uasset" 450
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Details_BaseColor.uasset" 451
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_1.uasset" 452
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Door_BaseColor.uasset" 453
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_2.uasset" 454
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Extras_BaseColor.uasset" 455
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_3.uasset" 456
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Frames_BaseColor.uasset" 457
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_5.uasset" 458
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Windows_BaseColor.uasset" 459
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_8.uasset" 460
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/End_Building.uasset" 461
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Full_Road_Segment.uasset" 462
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Grass_Tile/Grass_Tile_Grass_BaseColor.uasset" 463
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Grass_Tile/Grass_Tile.uasset" 464
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Grass_Tile.uasset" 465
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Newsbox.uasset" 466
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Right_Turn.uasset" 467
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/lambert2.uasset" 468
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Road_Redone.uasset" 469
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Levels/_MaterialTEMP.uasset" 470
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Road_Section.uasset" 471
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Steering_Wheel.uasset" 472
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/TemplateFloor.uasset" 473
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/TrafficLight_Normal.uasset" 474
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Traffic_Light_Left.uasset" 475
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Traffic_Light_Right.uasset" 476
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_1/Tree_Log_trunk_BaseColor.uasset" 477
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_1/Tree1_Bottom.uasset" 478
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_1/Tree_Top_tree_1_BaseColor.uasset" 479
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_1/Tree1_Top.uasset" 480
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Tree.uasset" 481
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_2/Tree2_Log_Trunk_BaseColor.uasset" 482
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_2/Tree2_Bottom.uasset" 483
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_2/Tree2_Top_Tree_BaseColor.uasset" 484
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tree_2/Tree2_Top.uasset" 485
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Tree2.uasset" 486
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/rock-background-music-no-copyright-youtubemp3free_org_01_Cue.uasset" 487
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Ambulance_Siren.uasset" 488
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Ambulance_Siren_Cue.uasset" 489
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Drifting.uasset" 490
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Drifting_Cue.uasset" 491
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Gun_Shot_Cue.uasset" 492
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Pistol_Shot.uasset" 493
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Pistol_Shot_Cue.uasset" 494
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Police_Siren.uasset" 495
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Police_Siren_Cue.uasset" 496
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Radio_Scan_1.uasset" 497
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Victory_music_Guitar.uasset" 498
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Victory_music_Guitar_Cue.uasset" 499
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Base_Material_Layout.uasset" 500
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_siren_light.uasset" 501
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_siren_light1.uasset" 502
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_BaseColorA-PilarsMirrors.uasset" 503
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_NormalA-PilarsMirrors.uasset" 504
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ambulance_Interior/Ambulance_Interior_1.uasset" 505
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Bench/Bench_Normalwood_5.uasset" 506
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Entrance_Normal.uasset" 507
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Pavement_Normal.uasset" 508
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_SideTrim_Normal.uasset" 509
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Side_Faces_Emissive.uasset" 510
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Side_Faces_Normal.uasset" 511
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_1/Building_3_Top_Normal.uasset" 512
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part1_Normal.uasset" 513
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part2_Normal.uasset" 514
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part2_OcclusionRoughnessMetallic.uasset" 515
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part4_Normal.uasset" 516
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part4_OcclusionRoughnessMetallic.uasset" 517
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part5_Normal.uasset" 518
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part5_OcclusionRoughnessMetallic.uasset" 519
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part6_OcclusionRoughnessMetallic.uasset" 520
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part8_BaseColor.uasset" 521
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Part8_OcclusionRoughnessMetallic.uasset" 522
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_2/Building_2_Posters_OcclusionRoughnessMetallic.uasset" 523
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Entrance_Roof_BaseColor.uasset" 524
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building3_MaterialD.uasset" 525
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Pavement_BaseColor.uasset" 526
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Pavement.uasset" 527
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Top_Sides_BaseColor.uasset" 528
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_3/Building_2_Top_Sides.uasset" 529
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_lambert2_BaseColor.uasset" 530
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_lambert2_Normal.uasset" 531
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_lambert2.uasset" 532
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Pillar_BaseColor.uasset" 533
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building4_Pillar.uasset" 534
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Bottom_Door_Normal.uasset" 535
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_bottom_pillars_Normal.uasset" 536
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Details_Normal.uasset" 537
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Floor_Normal.uasset" 538
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Pillar_Normal.uasset" 539
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Building_4/Building_4_Wall_Glass_Normal.uasset" 540
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2bodywork_Normal.uasset" 541
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Bumper_BaseColor.uasset" 542
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Bumper_Normal.uasset" 543
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Head_light_BaseColor.uasset" 544
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Head_light_Normal.uasset" 545
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Tail_light_BaseColor.uasset" 546
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Tail_light_Normal.uasset" 547
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Window_BaseColor.uasset" 548
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_CAR2Window_Normal.uasset" 549
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_Grille_BaseColor.uasset" 550
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_Grille_Normal.uasset" 551
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_tyres__wheel__BaseColor.uasset" 552
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car2/Civilian_Car_tyres__wheel__Normal.uasset" 553
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3bodywork_Normal.uasset" 554
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Bumper_BaseColor.uasset" 555
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Bumper_Normal.uasset" 556
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Head_light_BaseColor.uasset" 557
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Head_light_Normal.uasset" 558
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Tail_light_BaseColor.uasset" 559
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Tail_light_Normal.uasset" 560
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Window_BaseColor.uasset" 561
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_CAR3Window_Normal.uasset" 562
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_Grille_BaseColor.uasset" 563
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_Grille_Normal.uasset" 564
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_tyres__wheel__BaseColor.uasset" 565
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Civilian_Car3/Civilian_Car_tyres__wheel__Normal.uasset" 566
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Floor_BaseColor.uasset" 567
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_4.uasset" 568
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_Roofs_BaseColor.uasset" 569
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_6.uasset" 570
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_walls_BaseColor.uasset" 571
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/End_Building/End_Building_7.uasset" 572
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_MaterialA.uasset" 573
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_MaterialB.uasset" 574
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_MaterialC.uasset" 575
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_MaterialD.uasset" 576
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_5.uasset" 577
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/BaseColour_6.uasset" 578
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Police_Car/Police_Car_Material_7.uasset" 579
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/M_raindrop.uasset" 580
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/P_GPU_particles_collision2.uasset" 581
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/TilingNoise06_N.uasset" 582
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/T_Caustics.uasset" 583
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/T_Cubemap_01.uasset" 584
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/T_raindrop.uasset" 585
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Rain/rain/T_raindrop_normal.uasset" 586
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp/Ramp_Bricks_BaseColor.uasset" 587
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Ramp/Ramp_MaterialA.uasset" 588
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Alternate/RoadCrossing_Material.uasset" 589
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_NoLines/Road_Normal_Tarmac_2_Normal.uasset" 590
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Road_Normal/_MaterialTEMP.uasset" 591
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_sign_top_BaseColor.uasset" 592
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_5.uasset" 593
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_Taxi_Tail_light__BaseColor.uasset" 594
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Taxi/Taxi_6.uasset" 595
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/TrafficCone_MaterialA.uasset" 596
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Cone/TrafficCone_MaterialB.uasset" 597
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialA.uasset" 598
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialB.uasset" 599
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialC.uasset" 600
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialD.uasset" 601
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/TLightLeft_MaterialE.uasset" 602
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_Traffic_light_v2_light_left_BaseColor.uasset" 603
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_light_middle_BaseColor.uasset" 604
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_light_right_BaseColor.uasset" 605
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_main_box_body_BaseColor.uasset" 606
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Left/Traffic_Light_Left_traffic_light_v2_metal_BaseColor.uasset" 607
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialA.uasset" 608
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialB.uasset" 609
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialC.uasset" 610
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialD.uasset" 611
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TLightNorm_MaterialE.uasset" 612
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_traffic_light_v1_light_bot_F_BaseColor.uasset" 613
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_traffic_light_v1_light_mid_F_BaseColor.uasset" 614
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_light_v1_light_top_F_BaseColor.uasset" 615
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_Light_v1_Main_light_body_BaseColor.uasset" 616
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Normal/TrafficLight_Normal_Traffic_Light_v1_Metal_BaseColor.uasset" 617
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialA.uasset" 618
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialB.uasset" 619
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialC.uasset" 620
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialD.uasset" 621
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/TLightRight_MaterialE.uasset" 622
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_Traffic_light_v2_light_left_BaseColor.uasset" 623
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_light_middle_BaseColor.uasset" 624
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_light_right_BaseColor.uasset" 625
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_main_box_body_BaseColor.uasset" 626
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Traffic_Light_Right/Traffic_Light_Right_traffic_light_v2_metal_BaseColor.uasset" 627
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tunnel_Part/Tunnel_Part_Tunnel_Texture_BaseColor.uasset" 628
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tunnel_Part/Tunnel_Part_Tunnel_Texture_Emissive.uasset" 629
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures_Materials/Road_Alternate/RoadCrossing_Material.uasset" 630
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Police_Car.uasset" 631
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Police_Car_Bp2.uasset" 632
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Abulance_Interior_Diff.uasset" 633
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Abulance_Interior_Emmisive.uasset" 634
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Abulance_Interior_Opp.uasset" 635
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Abulance_Interior_Reff.uasset" 636
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Screen_Overlay.uasset" 637
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Abulance_Interior_MetSpec.uasset" 638
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Steering_Wheel.uasset" 639
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Steering_Wheel_Diff.uasset" 640
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Steering_Wheel_Opp.uasset" 641
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Ambulance_Interior/Steering_Wheel1.uasset" 642
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Cinematic_s/Background.uasset" 643
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/HighresScreen_death_screen.uasset" 644
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_deathscreen/you_have_died.uasset" 645
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot2.uasset" 646
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshotv1light.uasset" 647
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/images_loadingscreen/HighresScreenshot_v3.uasset" 648
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Arrow.uasset" 649
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Arrow2.uasset" 650
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/arrow_2.uasset" 651
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/arrow_3.uasset" 652
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/arrow_4.uasset" 653
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/arrow_5.uasset" 654
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Controls_Button/Arrow_5_1.uasset" 655
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Alex.uasset" 656
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Alice.uasset" 657
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Conor.uasset" 658
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Danny.uasset" 659
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Fillipe_Da_Silva.uasset" 660
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Gear.uasset" 661
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Matthew_T.uasset" 662
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Ollie.uasset" 663
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Credits_Button/All_names/Toby.uasset" 664
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/ANTI_ALTASTING.uasset" 665
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/box_edge.uasset" 666
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/Brightness.uasset" 667
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/options.uasset" 668
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/SHADOW.uasset" 669
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Options_Button/VOLUME.uasset" 670
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button/Play_button_H.uasset" 671
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button/Play_button_N.uasset" 672
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button_Test/Play.uasset" 673
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button_Test/Play_box.uasset" 674
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Play_Button_Test/Play_Hovered.uasset" 675
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_H.uasset" 676
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N.uasset" 677
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3.uasset" 678
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_1.uasset" 679
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_2.uasset" 680
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Post_exit/No__I_want_to_play_more_N_v3_3.uasset" 681
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level1_5__daytime_H.uasset" 682
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level1_5__daytime_N.uasset" 683
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level1__daytime_H.uasset" 684
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level1__daytime_N.uasset" 685
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_II_H.uasset" 686
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_II_N.uasset" 687
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_I_H.uasset" 688
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Level_I_N.uasset" 689
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_H.uasset" 690
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/LEVEL_I___NIGHT_TIME_N.uasset" 691
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Menu_assets/Select_Level/Select_Level.uasset" 692
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Pause_menu/Resume_H.uasset" 693
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Pause_menu/Resume_N.uasset" 694
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/SNow_andLight/SpotLightSign.uasset" 695
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_100_.uasset" 696
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_100_aloneV2.uasset" 697
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_100_aloneV3.uasset" 698
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_100_withoutRed.uasset" 699
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_10_.uasset" 700
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_15_.uasset" 701
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_20_.uasset" 702
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_25_.uasset" 703
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_30_.uasset" 704
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_35_.uasset" 705
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_40_.uasset" 706
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_45_.uasset" 707
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_50_.uasset" 708
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_55_.uasset" 709
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_5_.uasset" 710
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_60_.uasset" 711
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_65_.uasset" 712
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_70_.uasset" 713
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_75_.uasset" 714
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_80_.uasset" 715
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_85_.uasset" 716
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_90_.uasset" 717
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_95_.uasset" 718
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/stress_bar_alone.uasset" 719
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Studio_logo/HeartBeat_Studios.uasset" 720
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Studio_logo/Team_logo.uasset" 721
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/Victory_text.uasset" 722
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 723
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 724
+"../../../Engine/Content/BasicShapes/Cone.uasset" 725
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 726
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 727
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 728
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 729
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 730
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 731
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 732
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 733
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 734
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 735
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 736
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 737
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 738
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 739
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 740
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 741
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 742
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 743
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 744
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 745
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 746
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 747
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 748
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 749
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 750
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 751
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 752
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 753
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 754
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 755
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 756
+"../../../Engine/Content/EditorResources/S_Note.uasset" 757
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 758
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 759
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 760
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 761
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 762
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 763
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 764
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 765
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 766
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 767
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 768
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 769
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 770
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 771
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 772
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 773
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 774
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 775
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 776
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 777
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 778
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 779
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 780
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 781
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 782
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 783
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 784
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 785
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 786
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 787
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 788
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 789
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 790
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 791
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 792
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 793
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 794
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 795
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 796
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 797
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 798
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 799
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 800
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 801
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 802
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 803
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 804
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 805
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 806
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 807
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 808
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 809
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 810
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 811
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 812
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 813
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 814
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 815
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 816
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 817
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 818
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 819
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 820
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 821
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 822
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 823
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 824
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 825
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 826
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 827
+"../../../Engine/Content/EngineResources/Black.uasset" 828
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 829
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 830
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 831
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 832
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 833
+"../../../Engine/Content/EngineSounds/Master.uasset" 834
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 835
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 836
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 837
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 838
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 839
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 840
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 841
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 842
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 843
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 844
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 845
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 846
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 847
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 848
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 849
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 850
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 851
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 852
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 853
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 854
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 855
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 856
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 857
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 858
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 859
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 860
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 861
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 862
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 863
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 864
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 865
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 866
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 867
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 868
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 869
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 870
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 871
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 872
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 873
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 874
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 875
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 876
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 877
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 878
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 879
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 880
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 881
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 882
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 883
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 884
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 885
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 886
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 887
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 888
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 889
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 890
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 891
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 892
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 893
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 894
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 895
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/411223__furbyguy__hard-rock.uasset" 896
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Credits_ending.uasset" 897
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/CreditsV_H.uasset" 898
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/CreditsV_N.uasset" 899
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/MainV_H.uasset" 900
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/MainV_N.uasset" 901
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory/you_have_survived_1_copy.uasset" 902
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Victory_screen.uasset" 903
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Blueprints/victory_BP.uasset" 904
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Corner_Fast.uasset" 905
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Corner_Slow.uasset" 906
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 907
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Levels/Test_Level_Design_BuiltData.uasset" 908
+"../../../Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset" 909
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/AlleyWay/AlleyWay_Alleyway_BaseColor.uasset" 910
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/AlleyWay/AlleyWay_Alleyway_Normal.uasset" 911
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/AlleyWay/Alleyway.uasset" 912
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tunnel_Entrance/Tunnel_Entrance_Tunnel_Entrance_BaseColor.uasset" 913
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/Tunnel_Entrance/Tunnel_Entrance_Tunnel_Entrance_BaseColor_Mat.uasset" 914
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Beat_Road_Segment.uasset" 915
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_Hotdog_extra_small_attach_bit_BaseColor.uasset" 916
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_1.uasset" 917
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_hotdog_paint_area_BaseColor.uasset" 918
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_2.uasset" 919
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_hotdog_stand_main_mody_BaseColor.uasset" 920
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_3.uasset" 921
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_Hotdog_stand_Wheels_BaseColor.uasset" 922
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/HotdogStand/HotDogStand_4.uasset" 923
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/HotDogStand.uasset" 924
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/PostBox/PostBox_PB_Base__BaseColor.uasset" 925
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/PostBox/Post_Box_1.uasset" 926
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/PostBox/PostBox_PB_details_BaseColor.uasset" 927
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Textures/PostBox/Post_Box_2.uasset" 928
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/PostBox.uasset" 929
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Tunnel_Entrance.uasset" 930
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Models/Tunnel_Part.uasset" 931
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/Cheat_Codes.uasset" 932
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/Cheat_Codes_Cue.uasset" 933
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/Discover_Extreme_Energy.uasset" 934
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Radio_Scan_2.uasset" 935
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/SoundEffects/Radio_Scan_2_Cue.uasset" 936
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_Idle.uasset" 937
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_Idle_V2.uasset" 938
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_bar/StressBar_NotIdle_V2.uasset" 939
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/Stress_Meter.uasset" 940
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/3D_Models/Levels/Test_Level_Design.umap" 941
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/MenuGameMode.uasset" 942
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/RIGPRSCENETEMP_BuiltData.uasset" 943
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Assets/Road/06_-_Default.uasset" 944
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/City_Life.uasset" 945
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/Music/Main-Menu.uasset" 946
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 947
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 948
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/SNow_andLight/Snow_M.uasset" 949
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/SNow_andLight/Snow_P.uasset" 950
+"C:/Users/User/Desktop/HBeatGame Updated Patch 1/Content/UI/RIGPRSCENETEMP.umap" 951
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 952
+"../../../Engine/Content/Maps/Entry.umap" 953
